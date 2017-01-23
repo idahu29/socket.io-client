@@ -1,6 +1,7 @@
 
 # socket.io-client
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/26d4b488ea074e288474f6a275636895)](https://www.codacy.com/app/idahu29/socket-io-client?utm_source=github.com&utm_medium=referral&utm_content=idahu29/socket.io-client&utm_campaign=badger)
 [![Build Status](https://secure.travis-ci.org/socketio/socket.io-client.svg)](http://travis-ci.org/socketio/socket.io-client)
 [![Dependency Status](https://david-dm.org/socketio/socket.io-client.svg)](https://david-dm.org/socketio/socket.io-client)
 [![devDependency Status](https://david-dm.org/socketio/socket.io-client/dev-status.svg)](https://david-dm.org/socketio/socket.io-client#info=devDependencies)
